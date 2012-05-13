@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 gem "nokogiri",   "<= 1.5.0"
 gem "json",       ">= 1.6.5"
-gem "memcached",  ">= 1.3.0"
+#gem "memcached",  ">= 1.3.0"
 gem "redis",      ">= 2.2.0"
 
 # Add dependencies to develop your gem here.
